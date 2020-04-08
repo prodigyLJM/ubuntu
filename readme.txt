@@ -1,2 +1,4 @@
 This is a simple practise
 HELLO,WORLD! TODAY IS WONDERFUL.
+WOW!
+I LIKE C, C++,JAVA,PYTHON,LINUX.
